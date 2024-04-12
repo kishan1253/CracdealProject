@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-09T12:34:00 GMT-05:00" name="Cracdeal Automation Suite" finished-at="2024-04-09T12:35:47 GMT-05:00" duration-ms="106738">
+    <groups>
+    </groups>
+    <test started-at="2024-04-09T12:34:00 GMT-05:00" name="Cracdeal Tests" finished-at="2024-04-09T12:35:47 GMT-05:00" duration-ms="106738">
+      <class name="com.cracdeal.qa.testcases.ContactUsPageTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cracdeal.qa.testcases.ContactUsPageTests@776aec5c]" started-at="2024-04-09T12:35:19 GMT-05:00" name="setUp" finished-at="2024-04-09T12:35:24 GMT-05:00" duration-ms="5385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_ContactUs_Content()[pri:1, instance:com.cracdeal.qa.testcases.ContactUsPageTests@776aec5c]" started-at="2024-04-09T12:35:24 GMT-05:00" name="validate_ContactUs_Content" finished-at="2024-04-09T12:35:29 GMT-05:00" duration-ms="5173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_ContactUs_Content -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cracdeal.qa.testcases.ContactUsPageTests@776aec5c]" started-at="2024-04-09T12:35:29 GMT-05:00" name="tearDown" finished-at="2024-04-09T12:35:29 GMT-05:00" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cracdeal.qa.testcases.ContactUsPageTests@776aec5c]" started-at="2024-04-09T12:35:29 GMT-05:00" name="setUp" finished-at="2024-04-09T12:35:36 GMT-05:00" duration-ms="6603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_Submit_Contact_Form()[pri:2, instance:com.cracdeal.qa.testcases.ContactUsPageTests@776aec5c]" started-at="2024-04-09T12:35:36 GMT-05:00" name="validate_Submit_Contact_Form" finished-at="2024-04-09T12:35:47 GMT-05:00" duration-ms="10923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Submit_Contact_Form -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cracdeal.qa.testcases.ContactUsPageTests@776aec5c]" started-at="2024-04-09T12:35:47 GMT-05:00" name="tearDown" finished-at="2024-04-09T12:35:47 GMT-05:00" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cracdeal.qa.testcases.ContactUsPageTests -->
+      <class name="com.cracdeal.qa.testcases.HomePageTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:01 GMT-05:00" name="setUp" finished-at="2024-04-09T12:34:08 GMT-05:00" duration-ms="7336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_Title()[pri:1, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:08 GMT-05:00" name="validate_Title" finished-at="2024-04-09T12:34:08 GMT-05:00" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Title -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:08 GMT-05:00" name="tearDown" finished-at="2024-04-09T12:34:08 GMT-05:00" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:08 GMT-05:00" name="setUp" finished-at="2024-04-09T12:34:15 GMT-05:00" duration-ms="6797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_Url()[pri:2, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:15 GMT-05:00" name="validate_Url" finished-at="2024-04-09T12:34:15 GMT-05:00" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Url -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:15 GMT-05:00" name="tearDown" finished-at="2024-04-09T12:34:15 GMT-05:00" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:15 GMT-05:00" name="setUp" finished-at="2024-04-09T12:34:22 GMT-05:00" duration-ms="6994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_PageSource_Is_NotEmpty()[pri:3, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:22 GMT-05:00" name="validate_PageSource_Is_NotEmpty" finished-at="2024-04-09T12:34:22 GMT-05:00" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_PageSource_Is_NotEmpty -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:22 GMT-05:00" name="tearDown" finished-at="2024-04-09T12:34:22 GMT-05:00" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:22 GMT-05:00" name="setUp" finished-at="2024-04-09T12:34:29 GMT-05:00" duration-ms="6690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_Menus_In_PrimaryHeader()[pri:4, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:29 GMT-05:00" name="validate_Menus_In_PrimaryHeader" finished-at="2024-04-09T12:34:29 GMT-05:00" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Menus_In_PrimaryHeader -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:29 GMT-05:00" name="tearDown" finished-at="2024-04-09T12:34:29 GMT-05:00" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:29 GMT-05:00" name="setUp" finished-at="2024-04-09T12:34:35 GMT-05:00" duration-ms="5317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_Menus_In_SecondaryHeader()[pri:5, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:35 GMT-05:00" name="validate_Menus_In_SecondaryHeader" finished-at="2024-04-09T12:34:35 GMT-05:00" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Menus_In_SecondaryHeader -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:35 GMT-05:00" name="tearDown" finished-at="2024-04-09T12:34:35 GMT-05:00" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:35 GMT-05:00" name="setUp" finished-at="2024-04-09T12:34:40 GMT-05:00" duration-ms="5475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_Presence_Of_Live_Search()[pri:6, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:40 GMT-05:00" name="validate_Presence_Of_Live_Search" finished-at="2024-04-09T12:34:41 GMT-05:00" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Presence_Of_Live_Search -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:41 GMT-05:00" name="tearDown" finished-at="2024-04-09T12:34:41 GMT-05:00" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:41 GMT-05:00" name="setUp" finished-at="2024-04-09T12:34:47 GMT-05:00" duration-ms="6584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_Different_Sections_of_HomePage()[pri:7, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:47 GMT-05:00" name="validate_Different_Sections_of_HomePage" finished-at="2024-04-09T12:34:47 GMT-05:00" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Different_Sections_of_HomePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:47 GMT-05:00" name="tearDown" finished-at="2024-04-09T12:34:48 GMT-05:00" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:48 GMT-05:00" name="setUp" finished-at="2024-04-09T12:34:54 GMT-05:00" duration-ms="6747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_Availability_of_FavouriteStores()[pri:8, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:54 GMT-05:00" name="validate_Availability_of_FavouriteStores" finished-at="2024-04-09T12:34:54 GMT-05:00" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Availability_of_FavouriteStores -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cracdeal.qa.testcases.HomePageTests@55b699ef]" started-at="2024-04-09T12:34:54 GMT-05:00" name="tearDown" finished-at="2024-04-09T12:34:55 GMT-05:00" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cracdeal.qa.testcases.HomePageTests -->
+      <class name="com.cracdeal.qa.testcases.AboutUsPageTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cracdeal.qa.testcases.AboutUsPageTests@5b7a5baa]" started-at="2024-04-09T12:34:55 GMT-05:00" name="setUp" finished-at="2024-04-09T12:35:01 GMT-05:00" duration-ms="6690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_AboutUs_Content()[pri:1, instance:com.cracdeal.qa.testcases.AboutUsPageTests@5b7a5baa]" started-at="2024-04-09T12:35:01 GMT-05:00" name="validate_AboutUs_Content" finished-at="2024-04-09T12:35:06 GMT-05:00" duration-ms="5082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_AboutUs_Content -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cracdeal.qa.testcases.AboutUsPageTests@5b7a5baa]" started-at="2024-04-09T12:35:06 GMT-05:00" name="tearDown" finished-at="2024-04-09T12:35:06 GMT-05:00" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cracdeal.qa.testcases.AboutUsPageTests@5b7a5baa]" started-at="2024-04-09T12:35:06 GMT-05:00" name="setUp" finished-at="2024-04-09T12:35:13 GMT-05:00" duration-ms="6764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_Adding_Comment()[pri:2, instance:com.cracdeal.qa.testcases.AboutUsPageTests@5b7a5baa]" started-at="2024-04-09T12:35:13 GMT-05:00" name="validate_Adding_Comment" finished-at="2024-04-09T12:35:18 GMT-05:00" duration-ms="5166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Adding_Comment -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cracdeal.qa.testcases.AboutUsPageTests@5b7a5baa]" started-at="2024-04-09T12:35:18 GMT-05:00" name="tearDown" finished-at="2024-04-09T12:35:19 GMT-05:00" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cracdeal.qa.testcases.AboutUsPageTests -->
+    </test> <!-- Cracdeal Tests -->
+  </suite> <!-- Cracdeal Automation Suite -->
+</testng-results>
