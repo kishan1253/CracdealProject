@@ -165,4 +165,9 @@ public class Utilities {
 	    
 	    return destinationFilePath;
 	}
+	
+	public static int add(int a, int b)
+	{
+		return a+b;
+	}
 }
